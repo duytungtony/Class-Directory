@@ -7,7 +7,7 @@ Part A
    With 'Check MetaMask Balance' it says 66503169086671390 Wei. The displayed balance might include very small fractions of ETH (dust amounts) that aren't typically visible in the MetaMask but are accounted for in the exact Wei balance.
    
 Part B
-The SPDX (Software Package Data Exchange) is an initiative maintained by the Linux Foundation that provides a standardized format for documenting, communicating, and tracking software licenses in open-source projects. The goal of SPDX is to simplify license compliance and reduce legal uncertainty by ensuring that software projects clearly define their licensing terms. SPDX maintains a well-structured list of open-source licenses, enabling developers, organizations, and legal teams to easily understand the legal implications of using, modifying, and distributing software.![image](https://github.com/user-attachments/assets/acd6bc1e-2360-4499-8a55-8ae7eea192b1)
+The SPDX (Software Package Data Exchange) is an initiative maintained by the Linux Foundation that provides a standardized format for documenting, communicating, and tracking software licenses in open-source projects. The goal of SPDX is to simplify license compliance and reduce legal uncertainty by ensuring that software projects clearly define their licensing terms. SPDX maintains a well-structured list of open-source licenses, enabling developers, organizations, and legal teams to easily understand the legal implications of using, modifying, and distributing software.
 
 Scenario 1: License: Apache 2.0
 •	Apache 2.0 is a permissive license, meaning it allows anyone to use, modify, and distribute the software without the obligation to open-source derivative works
