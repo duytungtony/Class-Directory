@@ -1,6 +1,7 @@
 Exercise 1 
 
 Part A 
+
 4. Comment and Review a classmate
 
    Link to approuval and comment: https://github.com/Dauphine-Digital-Economics/Class-Directory/pull/37#pullrequestreview-2581501550
